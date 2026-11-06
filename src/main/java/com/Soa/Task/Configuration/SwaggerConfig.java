@@ -15,7 +15,7 @@ public class SwaggerConfig
     {
         return new OpenAPI()
                 .info(new Info()
-                        .title("Doctor Service API")
+                        .title("Faculty Service API")
                         .version("1.0")
                         .description("REST API Documentation for Doctor Microservice")
                         .contact(new Contact()
